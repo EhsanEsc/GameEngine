@@ -1,0 +1,18 @@
+wave 1:
+00:05, 3 x orc
+
+wave 2:
+0:20, 3 x orc
+0:24, 3 x orc
+
+wave 3:
+0:44, 2 x armored
+
+wave 4:
+1:00, 1 x armored, 3 x orc
+1:06, 1 x armored, 4 x orc
+
+wave 5:
+1:30, 1 x armored, 4 x orc
+1:35, 6 x orc
+1:41, 1 x armored, 5 x orc

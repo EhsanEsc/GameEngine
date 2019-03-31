@@ -1,0 +1,20 @@
+wave 1:
+00:05, 4 x wolf
+
+wave 2:
+00:25, 4 x wolf
+00:30, 5 x wolf
+
+wave 3:
+00:50, 1 x demon
+
+wave 4: 
+1:10, 1 x demon, 2 x wolf
+1:14, 1 x demon
+1:18, 4 x wolf
+
+wave 5:
+1:38, 5 x orc, 1 x demon
+1:42, 1 x armored, 1 x demon
+1:50, 6 x wolf
+1:52, 4 x orc, 1 x demon, 1 x armored
