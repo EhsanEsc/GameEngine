@@ -7,7 +7,7 @@ Coming soon...!
 
 TODO
 ---
-write readme
-add c++20 and refactor code
-create library and split example from it
-add more features
+write readme <br>
+add c++20 and refactor code <br>
+create library and split example from it <br>
+add more features <br>
