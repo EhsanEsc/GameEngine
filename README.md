@@ -9,5 +9,11 @@ TODO
 ---
 write readme <br>
 add c++20 and refactor code <br>
+clean code <br>
+fix makefile and write cmake <br>
+split code between files <br>
+add comment whenever needed <br>
 create library and split example from it <br>
+improve runner <br>
+add tests <br>
 add more features <br>
