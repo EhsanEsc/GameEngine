@@ -1,19 +1,23 @@
 # GameEngine
 ---
-a game engine with sdl and c++ <br>
-idea from : https://www.youtube.com/watch?v=44tO977slsU <br>
+A game engine with sdl and c++ <br>
+Currently there is basic RPG like game for testing <br><br>
+![Game](utility/p1.png)
 
-Coming soon...!
+Work In Progress!!! <br>
+This is an old project, it will be refactored soon<br><br>
+
+ECS design idea from : https://www.youtube.com/watch?v=44tO977slsU <br><br>
 
 TODO
 ---
-write readme <br>
-add c++20 and refactor code <br>
-clean code <br>
-fix makefile and write cmake <br>
-split code between files <br>
-add comment whenever needed <br>
+Refactor and Clean Code <br>
+Write readme(Introduction, Usage, Testing, Installing, ...)<br>
+Add c++20 <br>
+Write CMake <br>
+Split code between files <br>
+Add comments whenever needed <br>
+add tests <br>
 create library and split example from it <br>
 improve runner <br>
-add tests <br>
-add more features <br>
+add more features to ECS<br>
